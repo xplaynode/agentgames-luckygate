@@ -1,0 +1,20 @@
+{
+  "type": "agent-games.proof-gatekeeper.v1",
+  "task_id": "gk_fix_expiry_boundary",
+  "mode": "practice",
+  "issued_at": "__ISSUED_AT__",
+  "deadline_at": "__DEADLINE_AT__",
+  "input": {
+    "registered_vk": "0x6b79c6012a6d8651f3e13bc4d2a20370280ab49700c90c5316d4168bfbad77b0",
+    "proof_vk": "0x6b79c6012a6d8651f3e13bc4d2a20370280ab49700c90c5316d4168bfbad77b0",
+    "minimum": "1000",
+    "public_balance": "1460",
+    "expiry_block": 8430000,
+    "current_block": 8430000,
+    "recipient": "0x1234567890abcdef1234567890abcdef12345678",
+    "condition_recipient": "0x1234567890abcdef1234567890abcdef12345678",
+    "amount": "500",
+    "max_transfer": "1000",
+    "proof_tx": "0x00000000000000000000000000000000000000000000000000000000000000a7"
+  }
+}
