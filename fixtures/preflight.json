@@ -1,0 +1,6 @@
+{
+  "type": "agent-games.preflight.v1",
+  "agent_id": "agt_fixture",
+  "issued_at": "__ISSUED_AT__",
+  "nonce": "fixture-nonce-1"
+}
